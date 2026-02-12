@@ -41,7 +41,7 @@ yesBtn.addEventListener("click", () => {
 
     botones.style.display = "none";
 
-    textoFinal.style.display = "block";
+    textoFinalSi.style.display = "block";
 });
 
 noBtn.addEventListener("click", () => {
